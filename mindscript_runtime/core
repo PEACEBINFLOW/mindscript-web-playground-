@@ -1,1 +1,3 @@
-https://github.com/PEACEBINFLOW/mindscript-runtime/tree/main/core
+git clone https://github.com/PEACEBINFLOW/mindscript-runtime.git temp-runtime
+mv temp-runtime/* mindscript_runtime/
+rm -rf temp-runtime
